@@ -3,7 +3,7 @@
 ## Purpose
 
 The purpose of this project is to use data from New York City's Citi Bike program and analyze the feasibility to recreate the program in De Moines, Iowa.
-In this analysis Python and Pandas library was used to clean up the data and to created visualizations Tableau was used. 
+In this analysis Python and Pandas library was used to clean up the data and to create visualizations Tableau was used. 
 
 ## Results
 
