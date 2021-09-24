@@ -63,6 +63,12 @@ Based on the analysis, these are the top takeaways to create a successful citi b
 2. Advertising should target Male users as they are the main subscribers
 3. Offers for weekdays traditional commuting hours should be prioritized
 
+For a more in depth analysis in the future, these analysis are recommended:
+
+1. Relationship between Distance between stations and trip durations
+2. Relationship between number of bikes and city population
+
+
 This analysis is available on the link below for a more interactive view:
 
 [link to dashboard](https://public.tableau.com/app/profile/caroline.maia.shipley/viz/NYCCitiBikeAnalysis_16325104530070/NYCCitiBikeAnalysis?publish=yes)
